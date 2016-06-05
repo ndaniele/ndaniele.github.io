@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Why I Code."
-date:   2016-06-05 19:47:20 +0000
+date:   2016-06-05 15:47:20 -0400
 ---
 
 
-![](https://drive.google.com/file/d/0B7cOrKHUJySWdGFGVHNWbGxQSXc/view?usp=sharing)
+![](blob:https%3A//drive.google.com/3b441971-b778-4268-829b-023543458d04)
 *Tiger’s Nest Monastery, Bhutan*
 
 I never had any interest in coding or learning to code until about 9 months ago. At the time I was living in the small, isolated country of Bhutan. A nation that has made its reputation on being "the last Shangri-La", where monks light incense at high mountain shrines, and farmers tend the fields their ancestors tended for generations. Not a country synonymous with STEM. 
