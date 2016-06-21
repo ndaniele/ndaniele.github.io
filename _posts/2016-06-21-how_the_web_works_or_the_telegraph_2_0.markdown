@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How the Web works ..or the Telegraph 2.0"
-date:   2016-06-21 19:47:34 +0000
+date:   2016-06-21 15:47:34 -0400
 ---
 
 [![](http://i.imgur.com/hLE3Lwq.png)](https://archive.org/details/Telephon1946)
@@ -14,12 +14,12 @@ It's important to remember that while the internet is the dominant form of high-
 
 Understanding web fundamentals doesn't have to be a foray into a mysterious world of microchips and towers of servers. It can just be a natural extension of understanding the way that people have communicated over distances for a very long time. 
 
-In researching this post I came across archival footage of instructions for telegram and telephone operators circa 1943. It's interesting to see how the great, great, grandfather of the Internet, the Telegraph, used fundamentally many of the same systems and protocols that the modern Internet is built on. 
+In researching this post I came across archival footage of instructions for Telegram and Telephone operators circa 1943. It's interesting to see how the great, great, grandfather of the Internet, the Telegraph, used fundamentally many of the same systems and protocols that the modern Internet is built on. 
 
-When you are just starting to peak behind the veil of how the Internet works it can seem confusing and overwhelming. It may help to picture yourself as one of the telephone/telegraph operators in the old instructional video. 
+When you are just starting to peak behind the veil of how the Internet works it can seem confusing and overwhelming. It may help to picture yourself as one of the telephone/telegraph operators in this old instructional video. 
 
+![](http://i.imgur.com/9LqvFYT.png)
 
-![](http://i.imgur.com/0SiVyXl.png)
 
 You've gotten a job in a black and white office and you're looking at a giant switchboard. It’s you're job to make the correct connection, so that the caller on one end, can be connected to the receiver on the other end. ...Not so overwhelming or mysterious after all. 
 
@@ -34,7 +34,7 @@ It all starts when you (the user) enter a web address into your browser (www.old
 
 This server checks it's memory to see if it knows the code (or IP address) of the website you want, if it doesn't it sends a message to another server to get the correct address, once it has the code, it sends this code back to your computer. 
 
-![](http://i.imgur.com/9LqvFYT.png)
+![](http://i.imgur.com/0SiVyXl.png)
 
 -	This stage is the process is similar to calling the operator - 
 
