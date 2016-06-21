@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Top Tech Headlines - my first gem"
-date:   2016-06-21 20:32:50 +0000
+date:   2016-06-21 16:32:50 -0400
 ---
+
+![](http://i.imgur.com/jkYyEFX.png)
 
 
 First let me say that I really enjoyed working on this project. It was a welcome change from the previous lab, which I found laborious (that being said, I was working solo, and I would have rather worked with a partner on it – there were just so many damn files to code) 
@@ -22,7 +24,6 @@ I hope to get better at that part. However, it was comforting to hear Avi say th
 
 Again. I really enjoyed making this gem, and I’m happy that I have a gem that actually does something and delivers modestly useful information to a user via a CLI. But I also realize how far I have to go, because as of this moment I am not capable of building such a thing on my own from scratch.
 
-![](http://i.imgur.com/jkYyEFX.png)
 
 
 
