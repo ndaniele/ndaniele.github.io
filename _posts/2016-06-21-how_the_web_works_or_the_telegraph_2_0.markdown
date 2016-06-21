@@ -32,20 +32,23 @@ Computers also use numbers to communicate over the Internet. “Computer numbers
 
 It all starts when you (the user) enter a web address into your browser (www.oldtimevideos.com) your computer sends this address out to a special kind of computer called a server. 
 
-This server checks it's memory to see if it knows the code (or IP address) of the website you want, if it doesn't it sends a message to another server to get the correct address, once it has the code, it sends this code back to your computer. 
+This server checks it's memory to see if it knows the code (or IP address) of the website you want, if it doesn't it sends a message to another server to get the correct address. Once the server has the correct code it sends this code back to your computer. 
 
 ![](http://i.imgur.com/0SiVyXl.png)
 
--	This stage is the process is similar to calling the operator - 
+-	This stage in the process is similar to calling the operator - 
 
 YOU: “I need the number for Jon Smith in Des Moines, IW
+
 OLD TIMEY OPERATOR “one moment please
-…that number is (555-555-5555) 
+…that number is (555-555-5555)
+
 YOU: “thank you”
 
 - for your computer - 
 
-YOUR COMPUTER: "I need the IP address for www.jonsmith.com" 
+YOUR COMPUTER: "I need the IP address for www.jonsmith.com"
+
 SERVER: "One moment please… that address is 192.168.0.255
 
 
