@@ -7,7 +7,7 @@ date:   2016-06-21 16:32:50 -0400
 ![](http://i.imgur.com/jkYyEFX.png)
 
 
-First let me say that I really enjoyed working on this project. It was a welcome change from the previous lab, which I found laborious (that being said, I was working solo, and I would have rather worked with a partner on it – there were just so many damn files to code) 
+First let me say that I really enjoyed working on this project. It was a welcome change from the previous lab, which I found laborious (that being said, I was working solo, and I would have rather worked with a partner on it – there were just so many files to code) 
 
 This lab was great! I got the instant gratification of building something that works, and the first time my cli gem delivered headlines that I hadn’t read on the website yet was really exciting! It really worked! It did tell me about the top tech headlines! 
 
