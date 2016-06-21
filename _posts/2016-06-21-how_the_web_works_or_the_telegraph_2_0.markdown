@@ -21,7 +21,7 @@ When you are just starting to peak behind the veil of how the Internet works it 
 ![](http://i.imgur.com/9LqvFYT.png)
 
 
-You've gotten a job in a black and white office and you're looking at a giant switchboard. It’s you're job to make the correct connection, so that the caller on one end, can be connected to the receiver on the other end. ...Not so overwhelming or mysterious after all. 
+You've gotten a job in a black and white office and you're looking at a giant switchboard. It’s you're job to make the correct connection, so that the caller on one end can be connected to the receiver on the other end. ...Not so overwhelming or mysterious after all. 
 
 Computers perform this same task by connecting to other computers, in the same way that telephone operators used to connect callers to networks. 
 
@@ -30,7 +30,7 @@ Telecommunications pioneers got around this with a 10 digit “phone number” (
 
 Computers also use numbers to communicate over the Internet. “Computer numbers” are called IP addresses, and each website has one. But since it’s easier for you as a human to remember a website’s name (www.website.com) as opposed to it’s IP address (192.168.0.255 – imagine that as some company’s slogan) the computer’s first task is to find the IP address that is associated with the website you want to visit. 
 
-It all starts when you (the user) enter a web address into your browser (www.oldtimevideos.come) your computer sends this address out to a special kind of computer called a server. 
+It all starts when you (the user) enter a web address into your browser (www.oldtimevideos.com) your computer sends this address out to a special kind of computer called a server. 
 
 This server checks it's memory to see if it knows the code (or IP address) of the website you want, if it doesn't it sends a message to another server to get the correct address, once it has the code, it sends this code back to your computer. 
 
