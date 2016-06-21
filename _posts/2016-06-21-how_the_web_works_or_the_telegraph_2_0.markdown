@@ -49,10 +49,10 @@ YOU: “thank you”
 
 YOUR COMPUTER: "I need the IP address for www.jonsmith.com"
 
-SERVER: "One moment please… that address is 192.168.0.255
+SERVER: "One moment please… that address is 192.168.0.255"
 
 
-Now that your computer has the IP address, it sends that IP address to a “host server”, which is a special kind of computer that holds all the files that make up the website you want to visit.  The host server knows that the IP address you've given it is equal to the website you want to see (much like an area code and phone number are associated with a person you want to speak to). The host server accesses the files that make up that website, and sends those files to your computer. 
+Now that your computer has the IP address, it sends that IP address to a “host server”, which is a special kind of computer that holds all the files that make up the website you want to visit.  The host server knows that the IP address you've given it is associated with the website you want to see (much like an area code and phone number are associated with a person you want to speak to). The host server accesses the files that make up that website, and sends those files to your computer. 
 
 And just like that a connection is made. And you are interacting with a website. 
 
