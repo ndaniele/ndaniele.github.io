@@ -36,16 +36,16 @@ This server checks it's memory to see if it knows the code (or IP address) of th
 
 ![](http://i.imgur.com/0SiVyXl.png)
 
--	This stage in the process is similar to calling the operator - 
+-	This stage in the process is similar to calling the operator
 
 YOU: “I need the number for Jon Smith in Des Moines, IW
 
-OLD TIMEY OPERATOR “one moment please
+OLD TIMEY OPERATOR: “one moment please
 …that number is (555-555-5555)
 
 YOU: “thank you”
 
-- for your computer - 
+- Your computer calling the server
 
 YOUR COMPUTER: "I need the IP address for www.jonsmith.com"
 
