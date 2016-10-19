@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning to function() in JavaScript"
-date:   2016-10-19 22:12:47 +0000
+date:   2016-10-19 18:12:47 -0400
 ---
 
 
