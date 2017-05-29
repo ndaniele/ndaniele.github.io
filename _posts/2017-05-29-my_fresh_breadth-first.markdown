@@ -59,7 +59,7 @@ So....
 
 ![](http://i.imgur.com/XsBCRcW.png)
 
-After reworking my code with a For In loop I got the behavior I wanted for an array of nested arrays and objects. 
+After reworking my code with a **For In** loop I got the behavior I wanted for an array of nested arrays and objects. 
  
 This is where I should have stopped to test my code with a new array, one containing nested objects which themselves contained nested objects, or nested arrays that contained within them nested arrays, or some combination of the two, but I didn’t. 
  
