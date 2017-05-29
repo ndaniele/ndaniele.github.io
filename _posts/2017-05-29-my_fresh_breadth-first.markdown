@@ -67,7 +67,7 @@ This is where I should have stopped to test my code with a new array, one contai
 
 In my arrogance, I thought:
  
-“I get this, I see what’s going on here, I’ll make this challenge even more complex. I’ll make a function that can search through an array of nested objects, which themselves contain nested objects and arrays? ...let me just add a few extra lines of code to deal with objects nested inside of objects.”
+“I get this, I see what’s going on here, I’ll make this challenge even more complex. I’ll make a function that can search through an array of nested objects, which themselves contain nested objects and arrays! ...let me just add a few extra lines of code to deal with objects nested inside of objects.”
  
 so I went about adding multiple repetitious lines to my code:
 
