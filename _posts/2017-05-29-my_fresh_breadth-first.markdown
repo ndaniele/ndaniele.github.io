@@ -14,7 +14,7 @@ Algorithms …for fun?
  
 The whole reason I came to this meetup was to get some help on the algorithm I had been working on at home, alone, and had not been having very much fun with at all. 
  
-I watched while my new friends closed their laptops and got out pens and paper. They spent 30 mins scribbling ideas and looking alternately brilliant and totally puzzled. By the end of the allotted time, no one had a solution, not even the senior developer who had suggested the exercise, but it did seem like everybody working on the problem was having fun. 
+I watched while my new friends closed their laptops and got out pens and paper. They spent 30 minutes scribbling ideas and looking alternately brilliant and totally puzzled. By the end of the allotted time, no one had a solution, not even the senior developer who had suggested the exercise, but it did seem like everybody working on the problem was having fun. 
  
 I walked away from that meet-up determined to meet my next *“Algo”* challenge with an eye towards fun. Recently I had my chance. 
 
