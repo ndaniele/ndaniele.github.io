@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  MY FRESH BREADTH-FIRST
-date:   2017-05-29 22:16:45 +0000
+date:   2017-05-29 18:16:45 -0400
 ---
 
 
 
 I recently attended a coding meetup where a group of programmers got together to work on projects and compare notes from the field. 
  
-I was struggling with writing a sort algorithm in JavaScript which I was preparing for an upcoming interview, when one of the senior programmers in the group suggested that we all take some time to work on an *“Algo Problem ...you know…just for fun!” *
+I was struggling with writing a sort algorithm in JavaScript which I was preparing for an upcoming interview, when one of the senior programmers in the group suggested that we all take some time to work on an “*Algo Problem ...you know…just for fun!”*
  
 Algorithms …for fun? 
  
