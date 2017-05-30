@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: n.daniele@gmail.com
 copyright_name: ndaniele
 description: > # this means to ignore newlines until "baseurl:"
-  A Record Of Life Lessons Learned Through Coding! 
+  Life Lessons Learned Through Coding! 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: fuzzystarfilms
 github_username:  ndaniele
