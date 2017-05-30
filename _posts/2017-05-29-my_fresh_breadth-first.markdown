@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  MY FRESH BREADTH-FIRST
+title:  FRESH BREADTH-FIRST
 date:   2017-05-29 18:16:45 -0400
 ---
 
