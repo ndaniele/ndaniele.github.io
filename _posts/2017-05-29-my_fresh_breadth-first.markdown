@@ -10,29 +10,27 @@ I recently attended a coding meetup where a group of programmers got together to
  
 I was struggling with writing a sort algorithm in JavaScript which I was preparing for an upcoming interview, when one of the senior programmers in the group suggested that we all take some time to work on an “*Algo Problem ...you know…just for fun!”*
  
-Algorithms …for fun? 
- 
-The whole reason I came to this meetup was to get some help on the algorithm I had been working on at home, alone, and had not been having very much fun with at all. 
+Algorithms… for fun?  
  
 I watched while my new friends closed their laptops and got out pens and paper. They spent 30 minutes scribbling ideas and looking alternately brilliant and totally puzzled. By the end of the allotted time, no one had a solution, not even the senior developer who had suggested the exercise, but it did seem like everybody working on the problem was having fun. 
  
-I walked away from that meet-up determined to meet my next *“Algo”* challenge with an eye towards fun. Recently I had my chance. 
+I walked away from that meet-up determined to meet my next *“Algo”* challenge with an eye towards fun. Soon after I had my chance!
 
 **A CHALLENGE, SHOULD YOU CHOOSE TO ACCEPT IT**
  
-I’ve been working through the JavaScript curriculum in Learn.co from the Flatiron School (the Bootcamp I graduated from) Their curriculum is great and always updating, so it’s a good way to keep my coding skills sharp. 
+I’ve been working through the JavaScript curriculum in Learn.co from the Flatiron School (the Bootcamp I graduated from). Their curriculum is great and always updating, so it’s a good way to keep my coding skills sharp. 
  
 I came across a challenge at the end of one of the lessons, that read: 
 
 ![](http://i.imgur.com/mLXpPYk.png)
 
-With my experience at the code meet up fresh in my mind, I decided to complete this challenge, on my own, without extensive googling, and I committed to myself that, come hell or high water,  I would have fun while I picked it apart. 
+I decided to complete this challenge, on my own, without extensive googling. Most importantly I committed to myself that, come hell or high water,  I would have fun while working on it. 
  
 I started by pulling up a JavaScript Repl, and working with the skeleton code that the Learn.co Readme had provided. It was simple code for iterating through an array of nested arrays and calling a function on each iteration.
 
 ![](http://i.imgur.com/8Kv7ZcF.png)
 
-It seemed pretty straight forward, could I copy it’s logic patterns and simply swap out nested arrays for nested objects? (notice lines 14 through 18)
+It seemed pretty straight forward. I wondered if I could copy the logic patterns and simply swap out nested arrays for nested objects? (notice lines 14 through 18)
 
 ![](http://i.imgur.com/T1ONG5L.png)
 
@@ -53,7 +51,7 @@ I reworked my code with **typeof()**, but was still having problems. I stopped g
 Then I remembered... you can’t iterate through an Object with a **For Loop!**
 what will happen to all the **key: value** pairs? 
  
-So....
+So...
  
 **FOR IN LOOP TO THE RESCUE**
 
@@ -85,17 +83,17 @@ So I felt that I had succeeded and decided to call it a night.
 
 **THE MORNING AFTER**
  
-The next morning I was looking over the code I wrote and trying to think how I could refactor all that extra logic to make it less ugly. So I deleted a line...
+The next morning I was looking over the code I wrote and trying to think how I could refactor all that extra logic to make it less cluttered. So I deleted a line...
 
 ...and then another line...
 
 Then I read my code again from top to bottom and realized that the lines I had been so quick to include the night before were already accounted for within the logic of the While loop!!
  
-So, while I was manually looping and re-looping for each possible condition, the while loop was also doing this same logic for me. (Which explains some of the oddly long *console.log(current)* statements I kept getting). 
+So, while I was manually looping and re-looping for each possible condition, the *While Loop* was also doing this same logic for me. (Which explains some of the oddly long *console.log(current)* statements I kept getting). 
  
 I realized, that the power of this breadth first search algorithm is in its ability to deal with multiple scenarios (array of nested arrays, array of nested objects, array of objects containing nested arrays, array of arrays containing nested objects containing arrays…. etc) 
  
-I also fully understood the mechanism that the algorithm uses to be so efficient. it searches **BREADTH FIRST**. looking across the given array, before going down into it’s nested children. 
+I also fully understood the mechanism that the algorithm uses to be so efficient. It searches **BREADTH FIRST**. Looking across the given array, before going down into it’s nested children. 
  
 This abstracts away all the issues with nesting that I was trying to account for with my extra (and very non-DRY and ugly) code. By popping each element or value into a *Next* array, Breadth-First reduces all nested values into a flat array, and then simply checks to see if the criteria function returns true for any of those arguments! 
  
